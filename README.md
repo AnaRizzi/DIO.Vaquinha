@@ -1,4 +1,6 @@
-# dotnet-vaquinha-tests
+Projeto do curso Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding da DIO
+
+## dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
 ## Digital Innovation One
